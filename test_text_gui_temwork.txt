@@ -1,0 +1,3 @@
+test_tekst 
+team work
+adding file fm local clone repo to server
